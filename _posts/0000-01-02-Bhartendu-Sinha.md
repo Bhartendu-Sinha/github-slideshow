@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+"The Light of God Shines Alike in All Beings" -- Gita
